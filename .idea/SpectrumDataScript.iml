@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/py_venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (SpectrumDataScript)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (Spectrum_Data_Script)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
